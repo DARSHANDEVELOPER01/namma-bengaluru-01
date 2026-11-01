@@ -1,0 +1,11 @@
+{
+  "name": "Namma Bengaluru – Smart City Cleanup & Reward System",
+  "description": "Smart Bengaluru cleanliness platform empowering citizens to report garbage with GPS and earn verified rewards, connecting Administrators, Citizens, and BBMP Field Staff.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
